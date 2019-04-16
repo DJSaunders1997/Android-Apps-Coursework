@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextColorBlack">
+        <item name="android:textColor">@color/Black</item>
+    </style>
+    <style name="TextColorRed">
+        <item name="android:textColor">@color/Red</item>
+    </style>
+    <style name="TextColorGreen">
+        <item name="android:textColor">@color/Green</item>
+    </style>
+    <style name="TextColorBlue">
+        <item name="android:textColor">@color/Blue</item>
+    </style>
+
+    <style name="FontSizeSmall">
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="FontSizeMedium">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="FontSizeLarge">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+</resources>

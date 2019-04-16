@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Project Meeting App</string>
+
+    <!-- String values for activity_maps -->
+    <string name="title_activity_maps">Map</string>
+    <string name="meeting_location_marker">Meeting Location Marker</string>
+
+    <!-- String values for activity_meetings -->
+    <string name="meetingsText">Meetings</string>
+
+    <!-- String values for activity_add_meeting and activity_view_meeting -->
+    <string name="title">Title:</string>
+    <string name="notes">Notes:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="location">Location:</string>
+    <string name="attendees">Attendees:</string>
+
+    <!-- String values for activity_add_attendee and activity_view_attendee -->
+    <string name="name">Name:</string>
+
+    <!-- String values for activity_settings -->
+    <string name="font_size">Font Size:</string>
+    <string-array name="font_size_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string name="text_colour">Text Colour:</string>
+    <string-array name="text_colour_array">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string name="red">Red:</string>
+    <string name="green">Green:</string>
+    <string name="blue">Blue:</string>
+
+
+    <!-- String values for toast popups -->
+    <string name="toast_data_inserted">Data Inserted</string>
+    <string name="toast_data_not_inserted">Data Not Inserted</string>
+    <string name="toast_attendee_added">Attendee Added</string>
+    <string name="toast_data_attendee_added_database">Attendee Added And Saved To Database</string>
+    <string name="toast_location_updated">Location Updated</string>
+    <string name="toast_no_location">No Location Selected</string>
+    <string name="toast_preference_saved">Preferences Saved</string>
+    <string name="toast_data_deleted">Data Deleted</string>
+    <string name="toast_data_not_deleted">Data Not Deleted</string>
+
+
+</resources>
